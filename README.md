@@ -9,7 +9,6 @@ iii)Run npm start in the CLI to run the code locally.
 
 ---
 
-**You can also Test this globally using this URL ("https://mail-now.herokuapp.com/")**
 
 
 
